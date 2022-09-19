@@ -1,2 +1,2 @@
-# YB_1st
-ESAA 1주차 월요세션
+# YB_2rd
+ESAA 2주차 월요세션
